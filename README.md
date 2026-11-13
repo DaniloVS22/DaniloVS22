@@ -24,7 +24,7 @@ Os projetos abaixo são privados. Os repositórios ligados aqui são **apresenta
 
 | Projeto | O que é |
 |---|---|
-| [**PINEA**](https://github.com/DaniloVS22/pinea-case-study) | Inteligência operacional para licitações públicas |
+| [**PINEA**](https://github.com/DaniloVS22/pinea-case-study) | Inteligência operacional para licitações públicas. Hoje de uso interno; a visão futura é uma plataforma multiempresa para pequenas e médias empresas (planejada) |
 | [**ORQUESTRA**](https://github.com/DaniloVS22/orquestra-case-study) | Coordenação multiagente e multiprojeto para desenvolvimento de software com IA |
 
 ## Como trabalho com IA
