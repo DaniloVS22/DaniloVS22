@@ -36,5 +36,5 @@ Os projetos abaixo são privados. Os repositórios ligados aqui são **apresenta
 
 ## Contato
 
-- LinkedIn: [danilo-silva-3303b912b](https://www.linkedin.com/in/danilo-silva-3303b912b/)
+- LinkedIn: [danilo-silva-3303b912b](https://www.linkedin.com/in/danilo-vieira-3303b912b/)
 - E-mail: danilovsilva99@gmail.com
